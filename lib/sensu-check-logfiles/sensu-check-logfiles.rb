@@ -1,0 +1,1 @@
+require 'sensu-check-logfiles/version'
